@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /
+permalink: /overview
 name: 1
 ---
 
