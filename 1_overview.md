@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /CS269-17/
+permalink: /
 name: 1
 ---
 
