@@ -1,8 +1,9 @@
-```
-title: "Policies"
-layout: doc_course5901
-coursename: "CS6501-NLP"
-```
+---
+layout: page
+title: Policies
+permalink: /policy
+name: 4
+---
 
 ## Grading Policy
 
