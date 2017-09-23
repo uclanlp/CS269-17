@@ -5,8 +5,7 @@ permalink: /overview
 name: 1
 ---
 
-Workshop of the International Conference on Machine Learning (ICML) 2017 <br>
-Sydney, Australia 
+***Announcements
 
 08:30 AM -- 05:30 PM Fri, 11 August @ International Convention Centre, C4.5
 
