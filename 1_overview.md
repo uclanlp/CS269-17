@@ -15,10 +15,10 @@ name: 1
   * Location: Franz Hall 2258A
   
 #### Staff
-* Instructor: Kai-Wei Chang, Email to: nlp16@kwchang.net
+* Instructor: [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), Email to: ml17@kwchang.net
   * Office hour: 2:00pm -- 3:00pm, Tue, or by appointment.
   * Office location: BH 3732J  
-* TA: Md Rizwan Parvez.
+* TA: [Md Rizwan Parvez], (https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
   * Office hour: 12:00pm -- 2:00pm, Wed
   * Office location: BH 3809
   
