@@ -6,12 +6,11 @@ name: 1
 ---
 
 ### Announcements: 
-
+  * 08.21.2016: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
 ### Course Information: 
 #### Lectures:
-  Time: Tue/Thu 12:30pm -- 1:45pm.
-  
-  Location: Thornton Hall D223 (Note: classroom change)
+  * Time: Tue/Thu 2:00pm -- 3:50pm.
+  * Location: Franz Hall 2258A
   
 Deep learning has revolutionized machine learning for many domains and problems. Today, most successful applications of deep learning involve predicting single variables (like univariate regression or multi-class classification). However, many real problems involve highly dependent, structured variables. In such scenarios, it is desired or even necessary to model correlations and dependencies between the multiple input and output variables. Such problems arise in a wide range of domains, from natural language processing, computer vision, computational biology and others. 
 
