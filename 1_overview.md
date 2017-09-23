@@ -18,7 +18,7 @@ name: 1
 * Instructor: [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), Email to: ml17@kwchang.net
   * Office hour: 2:00pm -- 3:00pm, Tue, or by appointment.
   * Office location: BH 3732J  
-* TA: [Md Rizwan Parvez], (https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
+* TA: [Md Rizwan Parvez](https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
   * Office hour: 12:00pm -- 2:00pm, Wed
   * Office location: BH 3809
   
