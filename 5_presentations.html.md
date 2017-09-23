@@ -1,8 +1,9 @@
-```
-title: "Presentations"
-layout: doc_course5901
-coursename: "CS6501-NLP"
-```
+---
+layout: page
+title: Resources
+permalink: /resource
+name: 3
+---
 
 
 The purpose of this project presentation is to allow students to practice giving research talks in front of others. 
