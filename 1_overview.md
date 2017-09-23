@@ -5,7 +5,7 @@ permalink: /overview
 name: 1
 ---
 
-***Announcements
+### Announcements
 
 08:30 AM -- 05:30 PM Fri, 11 August @ International Convention Centre, C4.5
 
