@@ -14,6 +14,14 @@ name: 1
   * Time: Tue/Thu 2:00pm -- 3:50pm.
   * Location: Franz Hall 2258A
   
+#### Staff
+* Instructor: Kai-Wei Chang, Email to: nlp16@kwchang.net
+** Office hour: 2:00pm -- 3:00pm, Tue, or by appointment.
+** Office location: BH 3732J  
+* TA: Md Rizwan Parvez.
+** Office hour: 12:00pm -- 2:00pm, Wed
+** Office location: BH 3809
+  
 Deep learning has revolutionized machine learning for many domains and problems. Today, most successful applications of deep learning involve predicting single variables (like univariate regression or multi-class classification). However, many real problems involve highly dependent, structured variables. In such scenarios, it is desired or even necessary to model correlations and dependencies between the multiple input and output variables. Such problems arise in a wide range of domains, from natural language processing, computer vision, computational biology and others. 
 
 Some approaches to these problems directly use deep learning concepts, such as those that generate sequences using recurrent neural networks or that output image segmentations through convolutions. Others adapt the concepts from structured output learning. These structured output prediction problems were traditionally handled using linear models and hand-crafted features, with a structured optimization such as inference. It has recently been proposed to combine the representational power of deep neural networks with modeling variable dependence in a structured prediction framework. There are numerous interesting research questions related to modeling and optimization that arise in this problem space.
