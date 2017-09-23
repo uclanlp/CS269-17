@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resources
-permalink: /resource
-name: 3
+title: Presentations
+permalink: /presentation
+name: 5
 ---
 
 
