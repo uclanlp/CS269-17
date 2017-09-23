@@ -1,8 +1,9 @@
-```
-title: "Resources"
-layout: doc_course5901
-coursename: "CS6501-NLP"
-```
+---
+layout: page
+title: Resources
+permalink: /resource
+name: 3
+---
 
 # Textbook/references
 The following textbook is recommended but not required. 
