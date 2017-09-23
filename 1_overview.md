@@ -16,11 +16,11 @@ name: 1
   
 #### Staff
 * Instructor: Kai-Wei Chang, Email to: nlp16@kwchang.net
-** Office hour: 2:00pm -- 3:00pm, Tue, or by appointment.
-** Office location: BH 3732J  
+ * Office hour: 2:00pm -- 3:00pm, Tue, or by appointment.
+ * Office location: BH 3732J  
 * TA: Md Rizwan Parvez.
-** Office hour: 12:00pm -- 2:00pm, Wed
-** Office location: BH 3809
+ * Office hour: 12:00pm -- 2:00pm, Wed
+ * Office location: BH 3809
   
 Deep learning has revolutionized machine learning for many domains and problems. Today, most successful applications of deep learning involve predicting single variables (like univariate regression or multi-class classification). However, many real problems involve highly dependent, structured variables. In such scenarios, it is desired or even necessary to model correlations and dependencies between the multiple input and output variables. Such problems arise in a wide range of domains, from natural language processing, computer vision, computational biology and others. 
 
