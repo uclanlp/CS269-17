@@ -36,7 +36,7 @@ We aim to be as accommodating and fair as possible.
 ## Collaboration and use of outside resources
 Discussion and collaboration are encouraged. However, students must write their own reports.
 When using outside resources, proper citation is necessary. This includes papers, text books, softwares, websites, and helps from others. 
-For the details of Honor Code, please refer to [UVA Honor Committee](http://www.virginia.edu/honor/).
+For the details of Honor Code, please refer to [UCLA Student Conduct](http://www.deanofstudents.ucla.edu/Student-Conduct-Code#).
 If you have any doubt, please check with me in advance. You may get F in the final letter grade if we detect any cheating. 
 
 
