@@ -6,7 +6,9 @@ name: 1
 ---
 
 ### Announcements: 
-  * 08.21.2016: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
+  * 09.23.2017: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
+  
+  
 ### Course Information: 
 #### Lectures:
   * Time: Tue/Thu 2:00pm -- 3:50pm.
