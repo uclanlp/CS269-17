@@ -31,10 +31,12 @@ Tentative topics include:
 * Syntactic analysis: part-of-speech tagging, chunking, dependency parsing, constituency parsing.
 * Semantics: brown clusters, vector-space semantics, semantic role labeling.
 * NLP Applications: name entity recognition, machine translation, information extraction.
-##### Prerequisites
+#### Prerequisites: 
 Students are expected to have taken a class in linear algebra and in probability and statistics and a basic class in theory of computation and algorithms. Programming experience is necessary for the final project.
 
-#### Textbook/references
+
+
+#### [Textbook/references](https://uclanlp.github.io/CS269-17/resource):
 The following textbook is recommended but not required.
 * Jurafsky and Martin (2008), Speech and Language Processing, 2nd edition.
 
