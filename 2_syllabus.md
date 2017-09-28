@@ -18,18 +18,18 @@ The following schedule is subjected to change.
  | Tue 10/17 | Neural Network  | [.pdf], [.pptx]| 
  | Thu 10/19 | Neural Network | [.pdf], [.pptx]| 
  Representations | Tue 10/24 | Word Representations | [.pdf], [.pptx] |
- | Thu 10/26 | Word Representations| [.pdf], [.pptx] | Quiz 1
+ | Thu 10/26 | Word Representations| [.pdf], [.pptx] |
  | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]| 
  Parsing | Thu 11/2 | POS Tagging| [.pdf], [.pptx] 	|
  | Tue 11/7 | Dependency Parsing | [.pdf] [.pptx] | 
  | Thu 11/9 | Constituency parsing  | [.pdf] [.pptx] | 
  | Tue 11/14 | Semantic Parsing | [.pdf], [.pptx]| 
- Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] | Quiz 2
- | Tue 11/21 | Information Extraction | [.pdf] [.pptx] |Proposal Due
+ Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] |
+ | Tue 11/21 | Information Extraction | [.pdf] [.pptx] |
  | Thu 11/23 | **Thanksgiving Break** | **No Class** | 
  | Tue 11/28 | Machine Translation | [.pdf], [.pptx]| 
  | Thu 11/30 | Language Grounding | [.pdf], [.pptx]| 
-Final Project | Tue 12/5 | Final Presentation| | 
+Final Project | Tue 12/5 | Final Presentation| | Final Project Due
  | Thu 12/7 | Final Presentation |  | 
  
  
