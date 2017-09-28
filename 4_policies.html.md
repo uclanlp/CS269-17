@@ -8,29 +8,20 @@ name: 4
 ## Grading Policy
 
 Each student's grade is calculated as follows:
-- 50% final project (35% implementation + report writing, 15% presentation)
-- 25% quizzes (~8% each)
-- 10% critical review
-- 15% paper presentation
-- ??% Bonus
+- 40% final project (5% Proposal + 25% Final report writing, 10% presentation)
+- 20% paper summary
+- 30% paper presentation
+- 10% attendence/participations
 
-The cut-off points for the letter grades will no higher than the numbers listed in 
-the [default threshold](http://its.virginia.edu/sis/grading/gradethresholds.html) (see the first section).
-That is, you may get A+ with a raw score of 94.3, and you are guaranteed to get A if your raw score is 95.
-We do not round grades (i.e., 89.999 gets B+ by default), but we may curve grades. 
-
+In general, we will **not** curve your score.
 
 ## Late Policy
-All assignments and reports must be submitted to Collab by the time and date indicated. 
-Every student has a credit of 48 hours for all the assignments including the final project. 
-No assignment will be accepted after the credit is run out.
-For group projects, the credits of late hours cannot be added up.
-Do let us know if there are exceptional situations where this lenient policy is not satisfactory.
+The submission site will be closed 1hr after the deadline. No late submission will be accepted (unless emergency). 
 
 ## Accommodations for students with disabilities
 To insure that disability-related concerns are properly addressed from the beginning, 
 students with disabilities who require assistance to participate in this class 
-(including exam accommodations) are asked to see me as soon as possible.
+are asked to see me as soon as possible.
 We aim to be as accommodating and fair as possible.
 
 ## Collaboration and use of outside resources
