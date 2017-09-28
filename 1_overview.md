@@ -20,7 +20,7 @@ name: 1
   * Office location: BH 3732J  
 * TA: [Md Rizwan Parvez](https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
   * Office hour: 12:00pm -- 2:00pm, Wed
-  * Office location: BH 3809
+  * Office location: BH 2432
   
 #### Course Description
 Natural language processing (NLP) enables computers to use and understand human languages. Recently, NLP techniques have been widely used in many applications including machine translation, question answering, and extracting information from text. In this course, we will cover the fundamental elements and recent research trends in NLP. Tentative topics include syntactic analysis, semantic analysis, and NLP applications as well as the underlying machine learning methods that widely used in modeling NLP systems. The activities of the course include lectures, paper presentations, quizzes, a critical review report, and a final project.
