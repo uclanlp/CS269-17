@@ -5,11 +5,7 @@ permalink: /resource
 name: 3
 ---
 
-# Textbook/references
-The following textbook is recommended but not required. 
---  Jurafsky and Martin (2008), Speech and Language Processing, 2nd edition. 
-
-### Recommended reading list
+### Papers:
 The [ACL anthology](http://aclweb.org/anthology-new/) has a large collection of NLP papers. 
 
 
@@ -44,7 +40,7 @@ Large-scale learning libraries:
 - [CMU cnn library](https://github.com/clab/cnn) and its [NLP applications](https://github.com/clab)
 
 
-### Suggested Papers
+### Suggested Papers (More papers will be added)
 
 The following are suggested papers for presentations and writing critical review reports. 
 
