@@ -36,9 +36,8 @@ Students are expected to have taken a class in linear algebra and in probability
 
 
 
-#### [Textbook/references](https://uclanlp.github.io/CS269-17/resource):
-The following textbook is recommended but not required.
-* Jurafsky and Martin (2008), Speech and Language Processing, 2nd edition.
+#### [References](https://uclanlp.github.io/CS269-17/resource):
+Recent papers published in related conferences
 
 
 
