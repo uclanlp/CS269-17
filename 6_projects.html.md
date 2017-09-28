@@ -18,22 +18,9 @@ It is recommended to form a group with a diversity of background, but not requir
 
 ### Grading
 Here is a summary how your project will be graded:
+5% Proposal + 25% Final report writing, 10% presentation
 
--  Project proposal (0%)
-  - State your motivation, your plan, and the expected outcome of your project. No more than 2 pages.
-  - Although we will not grade the proposal, it is important to use this opportunity to plan your project and communicate with the instructor and TA. 
-	Especially, if your final project fails, we will take the proposal into consideration when giving the final score. 
-- Project report (35%)
-  - Like a research paper. No more than 8 pages (reference excluded). 
-  - You can use project proposal to draft your final report -- i.e. the writing of the proposal can be reused in the final report. 
-  - Different projects may be graded differently. For example, a project that reimplements some proposed approaches and performs comprehensive comparison might get a high score even if there is no new approach proposed. Here is a general grading rubric
-    - 10% on clarity (Is it clear what was done? Is the report well-written and well-structured? Is the idea well-motivated? Is the literature review comprehensive?)
-    - 10% on soundness and correctness. (Is the technical approach well-chosen and deep enough? Is the implementation correct?)
-    - 10% on the meaningful comparison. (Are the experiment settings correct? Are the approaches experimental results correctly interpreted?)
-    - 5% on novelty and substance. (What are the new things that we can learn from this project?)
-- Project presentation (15%)
-  - 5% graded by the instructor (and TA)
-  - 10% graded by your classmates (5% depends on the average scores + 5% depends on the average of the top 20 scores)
+detailed rubric will be announced later. 
 
 By default, students in the same team will get the same score unless special circumstances.
 We encourage students to use a  version control system (e.g., github, gitlab, etc...). 
@@ -58,7 +45,7 @@ Some possible ways to find a topic are:
 We will give a chance for students to recruit their group members in class.
 
 ### Project proposal 
-A two-page project proposal is due on 10/13 before the class. You should address the questions in the "Pick a topic" section in your proposal. 
+The template will be provided. You should address the questions in the "Pick a topic" section in your proposal. 
 You can use this chance to draft the introduction and the related work section of your final report. 
 
 ### Project report 
@@ -69,7 +56,7 @@ The report should be less than 8 pages without references (no minimum requiremen
 
 
 
-### Project presentation (15%)
+### Project presentation 
 Each project team is expected to make a presentation of their project. We expect everyone to attend the final project presentation unless special circumstances. 
 We will announce the final presentation date later.
 The length of the presentation depends on the number of groups (5min~10min) and will be announced later.
