@@ -10,7 +10,7 @@ The following schedule is subjected to change.
 
  Lecture | Date | topic | Slides | Due
 :------- | :---- | :----- | :----- | :-----: | :----:
- Overview | Thu 9/27 | Overview | [.pdf](slides/CS269-01.pdf), [.pptx](slides/CS269-01.pptx) | [Hw0](doc/hw0.pdf)  
+ Overview | Thu 9/27 | Overview | [.pdf](slides/CS269-01.pdf), [.pptx](slides/CS269-01.pptx) | [Hw0](docs/hw0.pdf)  
  ML | Tue 10/3 | Binary Classificaiton | [.pdf], [.pptx] |
  | Thu 10/5 | Multi-class Classification | [.pdf], [.pptx]| 
  | Tue 10/10 | Structured Prediction Models | [.pdf], [.pptx] | 
