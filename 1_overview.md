@@ -6,6 +6,7 @@ name: 1
 ---
 
 ## Announcements: 
+  * 10.06.2017: Please enroll in [Piazza](piazza.com/ucla/fall2017/cs269).
   * 09.23.2017: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
   
   
