@@ -20,7 +20,7 @@ name: 1
   * Office hour:  4:00pm -- 5:00pm, Tue
   * Office location: BH 3732J  
 * TA: [Md Rizwan Parvez](https://sites.google.com/site/parvezmdrizwan/), Email to: rizwan@cs.ucla.edu
-  * Office hour: 12:00pm -- 2:00pm, Wed
+  * Office hour: 3:30pm -- 5:30pm, Monday
   * Office location: BH 2432
   
 #### Course Description
