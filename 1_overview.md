@@ -6,6 +6,7 @@ name: 1
 ---
 
 ## Announcements: 
+  * 10.10.2017: Please sign up your presentaiton group [here](https://docs.google.com/spreadsheets/d/1w-8ocLW8GiU9rfcusHGd3aKCDU-4LPBU-RcG8btGT8w/edit#gid=0)
   * 10.06.2017: Please enroll in [Piazza](http://piazza.com/ucla/fall2017/cs269).
   * 09.23.2017: Welcome to CS 269: Seminar: Machine Learning in Natural Language Processing
   
