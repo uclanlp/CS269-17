@@ -8,9 +8,10 @@ name: 4
 ## Grading Policy
 
 Each student's grade is calculated as follows:
-- 40% final project (5% Proposal + 25% Final report writing, 10% presentation)
+- 30% final project (5% Proposal + 25% Final report writing, 10% presentation)
 - 20% paper summary
-- 30% paper presentation
+- 20% paper presentation
+- 20% mid-term exam
 - 10% attendence/participations
 
 In general, we will **not** curve your score.
