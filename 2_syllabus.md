@@ -22,7 +22,7 @@ The following schedule is subjected to change.
  | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]|  Proposal Due
  Parsing | Thu 11/2 | POS Tagging| [.pdf], [.pptx] 	|
  | Tue 11/7 | Dependency Parsing | [.pdf] [.pptx] | 
- | Thu 11/9 | Constituency parsing  | [.pdf] [.pptx] | 
+ | Thu 11/9 | Constituency parsing  | [.pdf] [.pptx] | Midterm Exam
  | Tue 11/14 | Semantic Parsing | [.pdf], [.pptx]| 
  Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] | Paper Summary Due
  | Tue 11/21 | Information Extraction | [.pdf] [.pptx] |
