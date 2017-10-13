@@ -4,6 +4,15 @@ title: Resources
 permalink: /resource
 name: 3
 ---
+### Related readings:
+THe following handouts and write-ups are related to the course:
+- [Language Model (Michael Collins)](http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf)
+- [HMM & Tagging (Michael Collins)](http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf)
+- [Log linear model (Michael Collins)](http://www.cs.columbia.edu/~mcollins/loglinear.pdf)
+- [MEMM (Michael Collins)](http://www.cs.columbia.edu/~mcollins/fall2014-loglineartaggers.pdf)
+- [CRF (Michael Collins)](http://www.cs.columbia.edu/~mcollins/crf.pdf)
+- [Multi-class classification (Chih-Jen Lin)](https://www.csie.ntu.edu.tw/~cjlin/papers/multisvm.pdf)
+- [Neural Network (Yoav Goldberg)](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 ### Papers:
 The [ACL anthology](http://aclweb.org/anthology-new/) has a large collection of NLP papers. 
