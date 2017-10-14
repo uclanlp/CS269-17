@@ -13,7 +13,7 @@ The following schedule is subjected to change.
  Overview | Thu 9/27 | Overview | [.pdf](slides/CS269-01.pdf), [.pptx](slides/CS269-01.pptx) | [Hw0](docs/hw0.pdf)  
  ML | Tue 10/3 | Binary Classificaiton | [.pdf](slides/CS269-02.pdf), [.pptx](slides/CS269-02.pptx) |
  | Thu 10/5 | Multi-class Classification | [.pdf](slides/CS269-03.pdf), [.pptx](slides/CS269-03.pptx)| 
- | Tue 10/10 | Structured Prediction Models | [.pdf](slides/CS269-04.pdf), [.pptx](slides/CS269-04.pdf) | Presentation Sign up
+ | Tue 10/10 | Structured Prediction Models | [.pdf](slides/CS269-04.pdf), [.pptx](slides/CS269-04.pptx) | Presentation Sign up
  | Thu 10/12 | Structured Prediction Models | [.pdf], [.pptx]| 
  | Tue 10/17 | Neural Network  | [.pdf], [.pptx]| 
  | Thu 10/19 | Neural Network | [.pdf], [.pptx]| 
