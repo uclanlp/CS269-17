@@ -15,8 +15,8 @@ The following schedule is subjected to change.
  | Thu 10/5 | Multi-class Classification | [.pdf](slides/CS269-03.pdf), [.pptx](slides/CS269-03.pptx)| 
  | Tue 10/10 | Structured Prediction Models | [.pdf](slides/CS269-04.pdf), [.pptx](slides/CS269-04.pptx) | Presentation Sign up
  | Thu 10/12 | Structured Prediction Models | |
- | Tue 10/17 | Neural Network  | [.pdf], [.pptx]| 
- | Thu 10/19 | Neural Network | [.pdf], [.pptx]| 
+ | Tue 10/17 | Neural Network  | [.pdf](slides/CS269-05.pdf), [.pptx](slides/CS269-05.pptx)| 
+ | Thu 10/19 | Neural Network | | 
  Representations | Tue 10/24 | Word Representations | [.pdf], [.pptx] |
  | Thu 10/26 | Word Representations| [.pdf], [.pptx] |
  | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]|  Proposal Due
