@@ -34,6 +34,6 @@ Final Project | Tue 12/5 | Final Presentation| | Final Project Due
  
  
  
- Paper presentaiton schedule:
+ [Paper presentaiton schedule](https://docs.google.com/spreadsheets/d/1w-8ocLW8GiU9rfcusHGd3aKCDU-4LPBU-RcG8btGT8w/edit?usp=sharing)
  
  
