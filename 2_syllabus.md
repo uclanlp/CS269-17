@@ -17,7 +17,7 @@ The following schedule is subjected to change.
  | Thu 10/12 | Structured Prediction Models | |
  | Tue 10/17 | Neural Network  | [.pdf](slides/CS269-05.pdf), [.pptx](slides/CS269-05.pptx)| 
  | Thu 10/19 | Neural Network | | 
- Representations | Tue 10/24 | Word Representations | [.pdf], [.pptx] |
+ Representations | Tue 10/24 | Word Representations | [.pdf](slides/CS269-06.pdf), [.pptx](slides/CS269-06.pdf) |, [Presentation1](
  | Thu 10/26 | Word Representations| [.pdf], [.pptx] |
  | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]|  Proposal Due
  Parsing | Thu 11/2 | POS Tagging| [.pdf], [.pptx] 	|
