@@ -19,9 +19,9 @@ The following schedule is subjected to change.
  | Thu 10/19 | Neural Network | | 
  Representations | Tue 10/24 | Word Representations | [.pdf](slides/CS269-06.pdf), [.pptx](slides/CS269-06.pdf) |, [Presentation1](
  | Thu 10/26 | Word Representations| [.pdf], [.pptx] |
- | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]|  Proposal Due
+ | Tue 10/31 | Sentence Representation | [.pdf], [.pptx]|  ~~Proposal Due~~
  Parsing | Thu 11/2 | POS Tagging| [.pdf], [.pptx] 	|
- | Tue 11/7 | Dependency Parsing | [.pdf] [.pptx] | 
+ | Tue 11/7 | Dependency Parsing | [.pdf] [.pptx] | Proposal Due
  | Thu 11/9 | Constituency parsing  | [.pdf] [.pptx] | Midterm Exam
  | Tue 11/14 | Semantic Parsing | [.pdf], [.pptx]| 
  Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] | Paper Summary Due
