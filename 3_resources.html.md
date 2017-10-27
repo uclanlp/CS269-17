@@ -22,13 +22,15 @@ The [ACL anthology](http://aclweb.org/anthology-new/) has a large collection of 
 The following is an incomplete list of software packages and libraries for developing NLP systems. 
 
 ### Python
-There are many off-the-shelf Python libraries are useful
+There are many off-the-shelf NLP Python libraries are useful
 - [NLTK](http://www.nltk.org/)
 - [SpyCy](https://spacy.io/)
-- [GenSim]](https://radimrehurek.com/gensim/)
+- [GenSim](https://radimrehurek.com/gensim/)
 
 Some machine learning systems may be helpful as well:
+- [Pytorch](http://pytorch.org/)
 - [Tensorflow](https://www.tensorflow.org/)
+- [DyNet](https://github.com/clab/dynet)
 - [Scikit learn](http://scikit-learn.org/stable/)
 
 ### Java/Scala
