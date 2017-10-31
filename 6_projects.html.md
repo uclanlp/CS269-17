@@ -18,7 +18,7 @@ It is recommended to form a group with a diversity of background, but not requir
 
 ### Grading
 Here is a summary how your project will be graded:
-5% Proposal + 25% Final report writing, 10% presentation
+5% Proposal + 20% Final report, 5% presentation
 
 detailed rubric will be announced later. 
 
