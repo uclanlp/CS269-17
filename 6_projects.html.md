@@ -49,12 +49,9 @@ The template will be provided. You should address the questions in the "Pick a t
 You can use this chance to draft the introduction and the related work section of your final report. 
 
 ### Project report 
-Each team must submit a written project report. You should assume the report is like a short conference paper. If you have a demo system, you can include some screenshots of your system.
-It is also recommended to include a discussion of how your research work can be further extended. It is required to use the provided [ACL Latex style files](http://acl2016.org/files/acl2016.zip) and submit the report in PDF format. 
-
-The report should be less than 8 pages without references (no minimum requirement). A concise and short report is better than a lengthy one. 
-
-
+Each team must submit a written project report. You should assume the report is like a short conference paper. If you have a demo system, you can include some screenshots of your system. It is also recommended to include a discussion of how your research work can be further extended. Your final project report can be presented in one of the following format:
+- PDF format: it is required to use the provided [ACL Latex style files](http://acl2016.org/files/acl2016.zip). The report should be less than 4 pages without references (no minimum requirement). A concise and short report is better than a lengthy one. 
+- A webpage or python notebook that provide code snippets and demo.  
 
 ### Project presentation 
 Each project team is expected to make a presentation of their project. We expect everyone to attend the final project presentation unless special circumstances. 
