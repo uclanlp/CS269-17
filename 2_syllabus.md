@@ -20,7 +20,7 @@ The following schedule is subjected to change.
  Representations | Tue 10/24 | Word Representations | [.pdf](slides/CS269-06.pdf), [.pptx](slides/CS269-06.pdf) |, 
  | Thu 10/26 | Word Representations|  |
  | Tue 10/31 | Sentence Representation | Project [.pdf](slides/CS269-Project.pdf), [.pptx](slides/CS269-Project.pptx)|  ~~Proposal Due~~
- Parsing | Thu 11/2 |  Dependency Parsing | [.pdf], [.pptx] 	|
+ Parsing | Thu 11/2 |  Dependency Parsing |  [.pdf](slides/CS269-07.pdf), [.pptx](slides/CS269-07.pptx) 	|
  | Tue 11/7 | Constituency parsing | [.pdf] [.pptx] | Proposal Due
  | Thu 11/9 |   | [.pdf] [.pptx] | Midterm Exam
  | Tue 11/14 | Semantic Parsing | [.pdf], [.pptx]| 
