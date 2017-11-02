@@ -6,6 +6,7 @@ name: 1
 ---
 
 ## Announcements: 
+  * 11.01.2017: The midterm will be on 11/9 in class. It will cover the lectures until 10/19.
   * 10.26.2017: Please see the instructions for project proposal [here](https://ccle.ucla.edu/mod/assign/view.php?id=1720530) 
   * 10.25.2017: Here is a [Practice quiz](practice_quiz.pdf) for the midterm exam. Note that the previous quiz covers slighlty different materials from this midterm.
   * 10.10.2017: Please sign up your presentaiton group [here](https://docs.google.com/spreadsheets/d/1w-8ocLW8GiU9rfcusHGd3aKCDU-4LPBU-RcG8btGT8w/edit?usp=sharing)
