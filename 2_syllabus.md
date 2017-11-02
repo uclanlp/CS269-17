@@ -20,9 +20,9 @@ The following schedule is subjected to change.
  Representations | Tue 10/24 | Word Representations | [.pdf](slides/CS269-06.pdf), [.pptx](slides/CS269-06.pdf) |, 
  | Thu 10/26 | Word Representations|  |
  | Tue 10/31 | Sentence Representation | Project [.pdf](slides/CS269-Project.pdf), [.pptx](slides/CS269-Project.pptx)|  ~~Proposal Due~~
- Parsing | Thu 11/2 | POS Tagging| [.pdf], [.pptx] 	|
- | Tue 11/7 | Dependency Parsing | [.pdf] [.pptx] | Proposal Due
- | Thu 11/9 | Constituency parsing  | [.pdf] [.pptx] | Midterm Exam
+ Parsing | Thu 11/2 |  Dependency Parsing | [.pdf], [.pptx] 	|
+ | Tue 11/7 | Constituency parsing | [.pdf] [.pptx] | Proposal Due
+ | Thu 11/9 |   | [.pdf] [.pptx] | Midterm Exam
  | Tue 11/14 | Semantic Parsing | [.pdf], [.pptx]| 
  Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] | Paper Summary Due
  | Tue 11/21 | Information Extraction | [.pdf] [.pptx] |
