@@ -22,7 +22,7 @@ The following schedule is subjected to change.
  | Tue 10/31 | Sentence Representation | Project [.pdf](slides/CS269-Project.pdf), [.pptx](slides/CS269-Project.pptx)|  ~~Proposal Due~~
  Parsing | Thu 11/2 |  Dependency Parsing |  [.pdf](slides/CS269-07.pdf), [.pptx](slides/CS269-07.pptx) 	|
  | Tue 11/7 | Constituency parsing |  | Proposal Due
- | Thu 11/9 |   | [.pdf](slides/CS269-08.pdf), [.pptx](slides/CS269-08.pptx) | Midterm Exam
+ | Thu 11/9 |   | [.pdf](slides/CS269-08.pdf), [.pptx](slides/CS269-08.pptx) | [Midterm Exam](docs/CS269_17_midterm.pdf)
  | Tue 11/14 | Semantic Parsing | [.pdf](slides/CS269-09.pdf), [.pptx](slides/CS269-09.pptx) | 
  Applications | Thu 11/16 | Question answering | [.pdf] [.pptx] | Paper Summary Due
  | Tue 11/21 | Information Extraction | [.pdf] [.pptx] |
